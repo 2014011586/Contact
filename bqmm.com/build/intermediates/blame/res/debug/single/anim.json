@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\androidtext\\YTX\\bqmm.com\\build\\intermediates\\res\\merged\\debug\\anim\\bqmm_slide_in_from_left.xml",
+        "source": "F:\\androidtext\\YTX\\bqmm.com\\src\\main\\res\\anim\\bqmm_slide_in_from_left.xml"
+    },
+    {
+        "merged": "F:\\androidtext\\YTX\\bqmm.com\\build\\intermediates\\res\\merged\\debug\\anim\\bqmm_slide_out_to_left.xml",
+        "source": "F:\\androidtext\\YTX\\bqmm.com\\src\\main\\res\\anim\\bqmm_slide_out_to_left.xml"
+    },
+    {
+        "merged": "F:\\androidtext\\YTX\\bqmm.com\\build\\intermediates\\res\\merged\\debug\\anim\\bqmm_slide_out_to_right.xml",
+        "source": "F:\\androidtext\\YTX\\bqmm.com\\src\\main\\res\\anim\\bqmm_slide_out_to_right.xml"
+    },
+    {
+        "merged": "F:\\androidtext\\YTX\\bqmm.com\\build\\intermediates\\res\\merged\\debug\\anim\\bqmm_slide_in_from_right.xml",
+        "source": "F:\\androidtext\\YTX\\bqmm.com\\src\\main\\res\\anim\\bqmm_slide_in_from_right.xml"
+    }
+]

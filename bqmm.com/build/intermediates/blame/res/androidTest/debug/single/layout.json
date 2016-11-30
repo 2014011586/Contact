@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\androidtext\\YTX\\bqmm.com\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bqmm_message_view_left.xml",
+        "source": "F:\\androidtext\\YTX\\bqmm.com\\build\\intermediates\\bundles\\debug\\res\\layout\\bqmm_message_view_left.xml"
+    },
+    {
+        "merged": "F:\\androidtext\\YTX\\bqmm.com\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bqmm_item_face.xml",
+        "source": "F:\\androidtext\\YTX\\bqmm.com\\build\\intermediates\\bundles\\debug\\res\\layout\\bqmm_item_face.xml"
+    },
+    {
+        "merged": "F:\\androidtext\\YTX\\bqmm.com\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bqmm_item_emoji.xml",
+        "source": "F:\\androidtext\\YTX\\bqmm.com\\build\\intermediates\\bundles\\debug\\res\\layout\\bqmm_item_emoji.xml"
+    },
+    {
+        "merged": "F:\\androidtext\\YTX\\bqmm.com\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bqmm_message_view_right.xml",
+        "source": "F:\\androidtext\\YTX\\bqmm.com\\build\\intermediates\\bundles\\debug\\res\\layout\\bqmm_message_view_right.xml"
+    }
+]

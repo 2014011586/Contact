@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "F:\\androidtext\\YTX\\bqmm.com\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bqmm_emoji_loadfail.png",
+        "source": "F:\\androidtext\\YTX\\bqmm.com\\src\\main\\res\\drawable-hdpi\\bqmm_emoji_loadfail.png"
+    },
+    {
+        "merged": "F:\\androidtext\\YTX\\bqmm.com\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bqmm_setting2x.png",
+        "source": "F:\\androidtext\\YTX\\bqmm.com\\src\\main\\res\\drawable-hdpi\\bqmm_setting2x.png"
+    },
+    {
+        "merged": "F:\\androidtext\\YTX\\bqmm.com\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bqmm_chatfrom_bg_focused.9.png",
+        "source": "F:\\androidtext\\YTX\\bqmm.com\\src\\main\\res\\drawable-hdpi\\bqmm_chatfrom_bg_focused.9.png"
+    },
+    {
+        "merged": "F:\\androidtext\\YTX\\bqmm.com\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bqmm_emoji_loading.png",
+        "source": "F:\\androidtext\\YTX\\bqmm.com\\src\\main\\res\\drawable-hdpi\\bqmm_emoji_loading.png"
+    },
+    {
+        "merged": "F:\\androidtext\\YTX\\bqmm.com\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bqmm_emoji_delete_img.png",
+        "source": "F:\\androidtext\\YTX\\bqmm.com\\src\\main\\res\\drawable-hdpi\\bqmm_emoji_delete_img.png"
+    },
+    {
+        "merged": "F:\\androidtext\\YTX\\bqmm.com\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bqmm_back.png",
+        "source": "F:\\androidtext\\YTX\\bqmm.com\\src\\main\\res\\drawable-hdpi\\bqmm_back.png"
+    },
+    {
+        "merged": "F:\\androidtext\\YTX\\bqmm.com\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bqmm_chatto_bg_focused.9.png",
+        "source": "F:\\androidtext\\YTX\\bqmm.com\\src\\main\\res\\drawable-hdpi\\bqmm_chatto_bg_focused.9.png"
+    },
+    {
+        "merged": "F:\\androidtext\\YTX\\bqmm.com\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bqmm_chatto_bg_normal.9.png",
+        "source": "F:\\androidtext\\YTX\\bqmm.com\\src\\main\\res\\drawable-hdpi\\bqmm_chatto_bg_normal.9.png"
+    },
+    {
+        "merged": "F:\\androidtext\\YTX\\bqmm.com\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bqmm_chatfrom_bg_normal.9.png",
+        "source": "F:\\androidtext\\YTX\\bqmm.com\\src\\main\\res\\drawable-hdpi\\bqmm_chatfrom_bg_normal.9.png"
+    },
+    {
+        "merged": "F:\\androidtext\\YTX\\bqmm.com\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bqmm_keyboard_store_bg.png",
+        "source": "F:\\androidtext\\YTX\\bqmm.com\\src\\main\\res\\drawable-hdpi\\bqmm_keyboard_store_bg.png"
+    },
+    {
+        "merged": "F:\\androidtext\\YTX\\bqmm.com\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bqmm_emoji_eo_fail_default.png",
+        "source": "F:\\androidtext\\YTX\\bqmm.com\\src\\main\\res\\drawable-hdpi\\bqmm_emoji_eo_fail_default.png"
+    },
+    {
+        "merged": "F:\\androidtext\\YTX\\bqmm.com\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\androidtext\\YTX\\bqmm.com\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]
